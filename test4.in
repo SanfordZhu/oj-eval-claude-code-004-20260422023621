@@ -1,0 +1,5 @@
+su root sjtu
+select 123456
+modify -name="Test Book" -author="Test Author" -keyword="test|book" -price=19.99
+show
+exit

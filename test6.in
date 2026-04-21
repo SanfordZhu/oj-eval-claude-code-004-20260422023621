@@ -1,0 +1,8 @@
+su root sjtu
+select 123456
+modify -name="Test Book" -author="Test Author" -keyword="test|book" -price=19.99
+import 10 199.90
+buy 123456 5
+show finance
+show finance 1
+exit
